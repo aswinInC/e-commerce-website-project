@@ -1,0 +1,40 @@
+.form_Bg{
+  background-image: url("https://assets.truemeds.in/Images/dwebbanner1.jpeg?tr=cm-pad_resize,bg-FFFFFF,lo-true,w-724");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.form_Button{
+  border-radius: 10px;
+  margin-top: 20px;
+  
+}
+span{
+  color: red;
+}
+.reg_Form{
+  background-image: url("https://media.istockphoto.com/id/1049599704/photo/pharmacist-using-laptop-computer-at-pharmacy.jpg?s=612x612&w=0&k=20&c=a8Of4vt8OCwx6aNG8kAoSyffyzp1sZWwR_mqDjm6i0o=");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.name{
+  margin-top: 5px;
+  justify-content: center;
+  display: flex;
+  display: block;
+}
+.image_id{
+  height: 45vh;
+  width: 30vw;
+  
+}
+.carouseEffect{
+  height: 50vh;
+}
+.update_bg{
+  background-image: url("https://img.freepik.com/free-photo/shopping-cart-with-wooden-elements_23-2148879396.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
